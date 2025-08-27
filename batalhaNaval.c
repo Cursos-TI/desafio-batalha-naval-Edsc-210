@@ -1,10 +1,3 @@
-// ============================================================================
-// Desafio Batalha Naval - Nível Mestre
-// Objetivo: Implementar e exibir habilidades especiais com área de efeito.
-// Autor: Gemini
-// Data: 13/08/2025
-// ============================================================================
-
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h> // Para a função abs() (valor absoluto)
